@@ -69,5 +69,3 @@ class Skewed {
 		traverseRightSkewed(headNode);
 	}
 }
-
-// This code is contributed by avanitrachhadiya2155
